@@ -3,4 +3,4 @@
 #clean anything with same name to get rid of clashes
 docker-compose down
 
-docker pull jenkins/jenkins:latest
+docker pull kayan/myjenkins:latest
